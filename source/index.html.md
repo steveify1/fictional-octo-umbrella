@@ -1,5 +1,5 @@
 ---
-title: API Reference
+title: FuzionX API Reference
 
 language_tabs: # must be one of https://git.io/vQNgJ
   - shell
@@ -20,7 +20,7 @@ code_clipboard: true
 
 meta:
   - name: description
-    content: Documentation for the Kittn API
+    content: Documentation for the FuzionX API
 ---
 
 # Introduction
