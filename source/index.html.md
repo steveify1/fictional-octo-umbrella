@@ -80,7 +80,7 @@ sign=md5(api_key1234567time12312312312137789654)
 
 ## Request Process
 
-The root URL for REST access：``` https://api.fuzionx.io ```
+The root URL for REST access：``` https://openapi.fuzionx.io ```
 
 ###  Request
 All requests are based on Https protocol, contentType in the request header must be uniformly set as: ‘application/x-www-form-urlencoded’.
